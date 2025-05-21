@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="16dp"
+    android:height="16dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+  <!-- Outer Circle (Radius 11) -->
+  <path
+      android:strokeColor="#8E8E8E"
+      android:strokeWidth="1"
+      android:fillColor="#00000000"
+      android:pathData="M12,1C17.6263,1 22,5.37368 22,12C22,18.6263 17.6263,23 12,23C6.37368,23 1,18.6263 1,12C1,5.37368 6.37368,1 12,1Z" />
+
+  <!-- Scaled and Centered Path -->
+  <path
+      android:pathData="M8,4H10.5M10.5,4C12.985,4 14.5,5.515 14.5,8C14.5,10.485 12.985,12 10.5,12H8L14,17M10.5,4H16M8,8.5H16"
+      android:strokeLineJoin="round"
+      android:strokeWidth="1"
+      android:fillColor="#00000000"
+      android:strokeColor="#8E8E8E"
+      android:strokeLineCap="round"/>
+</vector>
